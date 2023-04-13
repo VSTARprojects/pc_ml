@@ -24,6 +24,7 @@ Before running the notebook, you will need the following:
 - Within each of these directories, create subdirectories for each class of pathology that you want to classify. For example, "colon_adenocarinoma", "colon_normal", "renal_clearcell" and so on...
 - Place the appropriate images in each subdirectory.
 - Modify the code in the notebook to point to the correct directories and set any necessary hyperparameters.
+- Run `pip install -r requirements.txt`
 - Run the notebook and wait for the model to finish training.
 
 ### Note on Datasets
