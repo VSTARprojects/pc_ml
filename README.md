@@ -2,6 +2,12 @@
 
 This Jupyter Notebook provides a deep learning model for classifying pathology images using TensorFlow. The model is designed to work with three different datasets, which need to be organized into training, testing, and validation sets before running the model.
 
+There are three separate components for this project:
+
+1. ML Model: https://github.com/VSTARprojects/pc_ml
+2. FrontEnd: https://github.com/VSTARprojects/pc_fe
+3. BackEnd: https://github.com/VSTARprojects/pc_dj
+
 ### Prerequisites
 Before running the notebook, you will need the following:
 
