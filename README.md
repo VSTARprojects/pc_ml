@@ -1,5 +1,7 @@
 ## Deep Learning Model for Pathology Image Classification using Transfer Learning
 
+Full Project Demo: https://www.loom.com/share/434f009b5d61432da6ca36f963c73f98
+
 This Jupyter Notebook provides a deep learning model for classifying pathology images using TensorFlow. The model is designed to work with three different datasets, which need to be organized into training, testing, and validation sets before running the model.
 
 There are three separate components for this project:
